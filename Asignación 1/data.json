@@ -1,0 +1,9 @@
+{
+    "nombre_cliente": "Carlos Hurtado",
+    "telefono": "123123",
+    "direccion": "Calle hampa x",
+    "id_producto": 1,
+    "cantidad": 3,
+    "precio_venta": 150.0,
+    "fecha_venta": "2024-07-08"
+}
